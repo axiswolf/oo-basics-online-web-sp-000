@@ -11,4 +11,5 @@ class shoes
   def color
     @color
   end
+
 end
