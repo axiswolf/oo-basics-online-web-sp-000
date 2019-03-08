@@ -4,8 +4,11 @@ class shoes
     @brand = brand
   end
 
-  def brand()
+  def brand
     @brand
   end
 
+  def color
+    @color
+  end
 end
